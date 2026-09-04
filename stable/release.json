@@ -1,13 +1,13 @@
 {
-    "format":  "INRYEOK_UPDATE_V1",
-    "channel":  "stable",
-    "appMode":  "user",
-    "version":  "3.6.4",
-    "buildNumber":  189,
-    "publishedAtUtc":  "2026-09-04T08:39:59.3909744Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_189_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build189-user/inryeok_jangbu_3.6.4_189_user.zip",
-    "packageSize":  29946413,
-    "sha256":  "a902b3e65a70d8714b6902b6fc77f902fb3047e5f057219a556dca12333712cb",
-    "notes":  "배포 변경분 자동 병합, 일가고 기본 1공수, 지급·청구금액은 인력장부 현장단가 기준"
+  "format": "INRYEOK_UPDATE_V1",
+  "channel": "stable",
+  "appMode": "user",
+  "version": "3.6.4",
+  "buildNumber": 190,
+  "publishedAtUtc": "2026-09-04T09:34:28.0642344Z",
+  "packageFile": "inryeok_jangbu_3.6.4_190_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build190-user/inryeok_jangbu_3.6.4_190_user.zip",
+  "packageSize": 30359201,
+  "sha256": "37a70aa79b1593d0a3e5575438ddaaf3ddbd46ffeb2908b5f6b305e8f1654a09",
+  "notes": "인력관리에서 선택 인력의 일가고 주민번호·신분증·서명·이수증을 확인 후 수동으로 불러오는 기능 추가"
 }
