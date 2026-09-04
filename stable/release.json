@@ -4,8 +4,9 @@
     "appMode":  "user",
     "version":  "3.6.4",
     "buildNumber":  189,
-    "publishedAtUtc":  "2026-09-04T08:35:37.8543762Z",
+    "publishedAtUtc":  "2026-09-04T08:39:59.3909744Z",
     "packageFile":  "inryeok_jangbu_3.6.4_189_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build189-user/inryeok_jangbu_3.6.4_189_user.zip",
     "packageSize":  29946413,
     "sha256":  "a902b3e65a70d8714b6902b6fc77f902fb3047e5f057219a556dca12333712cb",
     "notes":  "배포 변경분 자동 병합, 일가고 기본 1공수, 지급·청구금액은 인력장부 현장단가 기준"
