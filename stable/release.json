@@ -3,11 +3,11 @@
   "channel": "stable",
   "appMode": "user",
   "version": "3.6.4",
-  "buildNumber": 192,
-  "publishedAtUtc": "2026-09-07T03:58:44.0146129Z",
-  "packageFile": "inryeok_jangbu_3.6.4_192_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build192-user/inryeok_jangbu_3.6.4_192_user.zip",
-  "packageSize": 30371363,
-  "sha256": "847138d2802ba1d685a803624c78b8e616ef94d780029795ea35d0a4dbdd4419",
-  "notes": "일가고 v1.1 현장 고유번호·현장명 연동, 현장 ID 자동·수동 매칭 저장, 동일 업체 다중 현장 분리, 신분증·이수증 회전·자르기 수정"
+  "buildNumber": 193,
+  "publishedAtUtc": "2026-09-07T06:01:50.1935166Z",
+  "packageFile": "inryeok_jangbu_3.6.4_193_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build193-user/inryeok_jangbu_3.6.4_193_user.zip",
+  "packageSize": 30371449,
+  "sha256": "4645c75639a21a581662f43b11e72d5c562308a423a6757739aae7bec62d10e7",
+  "notes": "일가고 인력서류 조회 보정: 이름+계좌 조회 결과가 비면 동명이인 안전규칙에 따라 이름 단독으로 재조회, 기존 인력정보와 저장된 서류는 유지하고 빈 항목만 추가"
 }
