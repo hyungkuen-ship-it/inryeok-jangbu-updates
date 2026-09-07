@@ -1,13 +1,13 @@
 {
-  "format": "INRYEOK_UPDATE_V1",
-  "channel": "stable",
-  "appMode": "user",
-  "version": "3.6.4",
-  "buildNumber": 193,
-  "publishedAtUtc": "2026-09-07T06:01:50.1935166Z",
-  "packageFile": "inryeok_jangbu_3.6.4_193_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build193-user/inryeok_jangbu_3.6.4_193_user.zip",
-  "packageSize": 30371449,
-  "sha256": "4645c75639a21a581662f43b11e72d5c562308a423a6757739aae7bec62d10e7",
-  "notes": "일가고 인력서류 조회 보정: 이름+계좌 조회 결과가 비면 동명이인 안전규칙에 따라 이름 단독으로 재조회, 기존 인력정보와 저장된 서류는 유지하고 빈 항목만 추가"
+    "format":  "INRYEOK_UPDATE_V1",
+    "channel":  "stable",
+    "appMode":  "user",
+    "version":  "3.6.4",
+    "buildNumber":  195,
+    "publishedAtUtc":  "2026-09-07T09:27:10.7293147Z",
+    "packageFile":  "inryeok_jangbu_3.6.4_195_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build195-user/inryeok_jangbu_3.6.4_195_user.zip",
+    "packageSize":  29964132,
+    "sha256":  "cb942085e87d9b68995241a4c354e71eb3d6b9cf91690e1f921bbf4f87f3b80e",
+    "notes":  "일가고 계좌 조회에 일부 서류가 빠질 때 이름 조회로 주민번호·신분증·서명·이수증의 빈 항목을 안전하게 보완"
 }
