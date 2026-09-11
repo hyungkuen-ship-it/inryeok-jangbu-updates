@@ -1,13 +1,13 @@
 {
-    "format":  "INRYEOK_UPDATE_V1",
-    "channel":  "stable",
-    "appMode":  "user",
-    "version":  "3.6.4",
-    "buildNumber":  196,
-    "publishedAtUtc":  "2026-09-08T09:14:18.6204540Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_196_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build196-user/inryeok_jangbu_3.6.4_196_user.zip",
-    "packageSize":  29970093,
-    "sha256":  "57a27eb3dafd7fc90a8873703fa363db35eb82b3bf3d757e767125be8648af91",
-    "notes":  "일가고 명단 불러오기 속도 개선: 명단과 서류 조회 분리, 신규·빈 서류만 병렬 저장"
+  "format": "INRYEOK_UPDATE_V1",
+  "channel": "stable",
+  "appMode": "user",
+  "version": "3.6.4",
+  "buildNumber": 197,
+  "publishedAtUtc": "2026-09-11T03:02:19.2832669Z",
+  "packageFile": "inryeok_jangbu_3.6.4_197_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build197-user/inryeok_jangbu_3.6.4_197_user.zip",
+  "packageSize": 28124469,
+  "sha256": "0b96a1d03cf3cdca178e301fb8fe95d4ba38fb83690b86928ac3a980093bb42f",
+  "notes": "배포용 사용 종료: 모든 장부·업로드·메일·Google Drive 업무 기능을 중지하고 빈 메인 화면만 표시합니다."
 }
