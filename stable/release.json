@@ -3,11 +3,11 @@
   "channel": "stable",
   "appMode": "user",
   "version": "3.6.4",
-  "buildNumber": 197,
-  "publishedAtUtc": "2026-09-11T03:02:19.2832669Z",
-  "packageFile": "inryeok_jangbu_3.6.4_197_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build197-user/inryeok_jangbu_3.6.4_197_user.zip",
-  "packageSize": 28124469,
-  "sha256": "0b96a1d03cf3cdca178e301fb8fe95d4ba38fb83690b86928ac3a980093bb42f",
-  "notes": "배포용 사용 종료: 모든 장부·업로드·메일·Google Drive 업무 기능을 중지하고 빈 메인 화면만 표시합니다."
+  "buildNumber": 198,
+  "publishedAtUtc": "2026-09-11T03:07:22.0396112Z",
+  "packageFile": "inryeok_jangbu_3.6.4_198_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build198-user/inryeok_jangbu_3.6.4_198_user.zip",
+  "packageSize": 28127906,
+  "sha256": "bd34d969485319058e5dbeb0ea5903daa46f321042510f22f160f180960b33f4",
+  "notes": "최종 배포용 종료판: 모든 업무 기능을 중지하고 빈 메인 화면만 표시합니다. 이전 실행 프로그램은 제거하며 기존 USER_DATA 자료는 보존합니다."
 }
