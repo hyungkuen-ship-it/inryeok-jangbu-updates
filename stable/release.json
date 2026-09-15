@@ -3,11 +3,11 @@
   "channel": "stable",
   "appMode": "user",
   "version": "3.6.4",
-  "buildNumber": 198,
-  "publishedAtUtc": "2026-09-11T03:07:22.0396112Z",
-  "packageFile": "inryeok_jangbu_3.6.4_198_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build198-user/inryeok_jangbu_3.6.4_198_user.zip",
-  "packageSize": 28127906,
-  "sha256": "bd34d969485319058e5dbeb0ea5903daa46f321042510f22f160f180960b33f4",
-  "notes": "최종 배포용 종료판: 모든 업무 기능을 중지하고 빈 메인 화면만 표시합니다. 이전 실행 프로그램은 제거하며 기존 USER_DATA 자료는 보존합니다."
+  "buildNumber": 202,
+  "publishedAtUtc": "2026-09-15T00:55:31.0462378Z",
+  "packageFile": "inryeok_jangbu_3.6.4_202_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build202-user/inryeok_jangbu_3.6.4_202_user.zip",
+  "packageSize": 30387367,
+  "sha256": "1eb9bb7197d91ab4f5153d83e143aafdeb1cc5f1e463cae1884876fbbc2b590d",
+  "notes": "배포용 업무 기능 복원: 기기관리를 제외한 시작화면, 출력일보, 명단교체, 업체관리, 4대보험, 인력관리, 업로드, 문서서식, 자료관리, 설정 기능을 다시 사용할 수 있습니다."
 }
