@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.4",
-    "buildNumber":  203,
-    "publishedAtUtc":  "2026-09-16T03:59:45.7232014Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_203_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build203-user/inryeok_jangbu_3.6.4_203_user.zip",
-    "packageSize":  29983976,
-    "sha256":  "f519dcf6b1e33e0da14e74ae7b623a953f428756318d9983b2a2bf2e48ee55d1",
-    "notes":  "교체완료 후 실투입자 정정 안전화: 업체·현장·날짜·공수·금액 잠금, 변경 전 확인 및 중복 경고, 맞교체 상대 출력행과 교체명단 자동 동기화, 저장단계 현장변경 차단"
+    "buildNumber":  204,
+    "publishedAtUtc":  "2026-09-16T07:29:28.7741465Z",
+    "packageFile":  "inryeok_jangbu_3.6.4_204_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build204-user/inryeok_jangbu_3.6.4_204_user.zip",
+    "packageSize":  29982093,
+    "sha256":  "3192531b649ebfe1e620aa47bccf3f1254f43b3ad194b4a61e0000f3cc492fbd",
+    "notes":  "메일 수신처·발송자료 삭제 및 수정 유지: 문서설정 삭제이력 Google 병합 반영, 오래된 원격자료 재생성 차단, 메일설정 변경 즉시 로컬 장부 확정"
 }
