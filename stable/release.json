@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.4",
-    "buildNumber":  208,
-    "publishedAtUtc":  "2026-09-18T04:21:00.9355255Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_208_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build208-user/inryeok_jangbu_3.6.4_208_user.zip",
-    "packageSize":  29986878,
-    "sha256":  "54c74e011e8b47e8d2e6735d8410f41bdbb8ca8da1c4b040c06b74cfca678b09",
-    "notes":  "실행 시 Drive 중복 조회 제거, 종료 저장 최적화, 업데이트 후 프로세스 종료 보강"
+    "buildNumber":  209,
+    "publishedAtUtc":  "2026-09-18T09:10:55.7208741Z",
+    "packageFile":  "inryeok_jangbu_3.6.4_209_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build209-user/inryeok_jangbu_3.6.4_209_user.zip",
+    "packageSize":  29986271,
+    "sha256":  "c0243f5164a99e3725ecf733481acaa016e8435f8894fad5fd0781bdf6b3d8aa",
+    "notes":  "실투입 원본 교체명단 연동, 실행·종료 속도 개선, 대용량 장부 저장 최적화"
 }
