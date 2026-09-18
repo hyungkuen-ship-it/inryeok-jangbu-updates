@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.4",
-    "buildNumber":  205,
-    "publishedAtUtc":  "2026-09-16T08:08:37.0676572Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_205_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build205-user/inryeok_jangbu_3.6.4_205_user.zip",
-    "packageSize":  29981333,
-    "sha256":  "efda2f37c94a2250b5832b1e07ebfdfe0f11e58d6e3b3084aa6684e3d0d721ce",
-    "notes":  "명단교체 수정저장 7회 오판정 수정: 업체 배정 횟수를 월 누적이 아닌 최근 연속 배정으로 계산하고 선택 당일 중복 계산 방지"
+    "buildNumber":  207,
+    "publishedAtUtc":  "2026-09-18T03:59:10.8683949Z",
+    "packageFile":  "inryeok_jangbu_3.6.4_207_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build207-user/inryeok_jangbu_3.6.4_207_user.zip",
+    "packageSize":  29987345,
+    "sha256":  "9be0922845c7417745bbbf034e45dd2174b33f8a152857a53a20eabfbe0874fe",
+    "notes":  "출력일보 최초 조회기간을 당일~당일로 변경"
 }
