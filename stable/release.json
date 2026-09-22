@@ -3,11 +3,11 @@
     "channel":  "stable",
     "appMode":  "user",
     "version":  "3.6.4",
-    "buildNumber":  209,
-    "publishedAtUtc":  "2026-09-18T09:10:55.7208741Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_209_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build209-user/inryeok_jangbu_3.6.4_209_user.zip",
-    "packageSize":  29986271,
-    "sha256":  "c0243f5164a99e3725ecf733481acaa016e8435f8894fad5fd0781bdf6b3d8aa",
-    "notes":  "실투입 원본 교체명단 연동, 실행·종료 속도 개선, 대용량 장부 저장 최적화"
+    "buildNumber":  211,
+    "publishedAtUtc":  "2026-09-22T06:26:25.4251483Z",
+    "packageFile":  "inryeok_jangbu_3.6.4_211_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build211-user/inryeok_jangbu_3.6.4_211_user.zip",
+    "packageSize":  30014815,
+    "sha256":  "c0412a50417acc5d2762241be3919ec6d86b27151f4b819953ca1cf9f117e8d3",
+    "notes":  "교체명단 업체별 월 누적 7일 제한 복구"
 }
