@@ -2,12 +2,12 @@
     "format":  "INRYEOK_UPDATE_V1",
     "channel":  "stable",
     "appMode":  "user",
-    "version":  "3.6.4",
-    "buildNumber":  211,
-    "publishedAtUtc":  "2026-09-22T06:26:25.4251483Z",
-    "packageFile":  "inryeok_jangbu_3.6.4_211_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.4-build211-user/inryeok_jangbu_3.6.4_211_user.zip",
-    "packageSize":  30014815,
-    "sha256":  "c0412a50417acc5d2762241be3919ec6d86b27151f4b819953ca1cf9f117e8d3",
-    "notes":  "교체명단 업체별 월 누적 7일 제한 복구"
+    "version":  "3.6.5",
+    "buildNumber":  212,
+    "publishedAtUtc":  "2026-09-24T04:33:23.9475758Z",
+    "packageFile":  "inryeok_jangbu_3.6.5_212_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.5-build212-user/inryeok_jangbu_3.6.5_212_user.zip",
+    "packageSize":  30428372,
+    "sha256":  "8f5b413b3dc910096b6d5d716f981ff5f6e72633e6161234e588e5f14882435e",
+    "notes":  "9월 8일 일가고 중복 정리 및 일가고 매칭번호 기반 중복 등록 방지"
 }
