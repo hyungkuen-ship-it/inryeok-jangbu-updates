@@ -2,12 +2,12 @@
     "format":  "INRYEOK_UPDATE_V1",
     "channel":  "stable",
     "appMode":  "user",
-    "version":  "3.6.5",
-    "buildNumber":  212,
-    "publishedAtUtc":  "2026-09-24T04:33:23.9475758Z",
-    "packageFile":  "inryeok_jangbu_3.6.5_212_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.5-build212-user/inryeok_jangbu_3.6.5_212_user.zip",
-    "packageSize":  30428372,
-    "sha256":  "8f5b413b3dc910096b6d5d716f981ff5f6e72633e6161234e588e5f14882435e",
-    "notes":  "9월 8일 일가고 중복 정리 및 일가고 매칭번호 기반 중복 등록 방지"
+    "version":  "3.6.6",
+    "buildNumber":  213,
+    "publishedAtUtc":  "2026-09-24T05:02:03.3918288Z",
+    "packageFile":  "inryeok_jangbu_3.6.6_213_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.6-build213-user/inryeok_jangbu_3.6.6_213_user.zip",
+    "packageSize":  30019163,
+    "sha256":  "74dbfe80ea2d2d407b6da56dc65b8b7e293b5251bbe13017251a30cf9dfffd69",
+    "notes":  "양식2 잔여 예시자료 제거 및 양식1·양식2 출력 검증"
 }
