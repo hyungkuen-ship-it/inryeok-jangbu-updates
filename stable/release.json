@@ -1,13 +1,13 @@
 {
-  "format": "INRYEOK_UPDATE_V1",
-  "channel": "stable",
-  "appMode": "user",
-  "version": "3.6.8",
-  "buildNumber": 242,
-  "publishedAtUtc": "2026-10-28T07:16:24.6162646Z",
-  "packageFile": "inryeok_jangbu_3.6.8_242_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build242-user/inryeok_jangbu_3.6.8_242_user.zip",
-  "packageSize": 41592008,
-  "sha256": "9719ca6de03786df9aad2ef85717b10981541aec0892ad80b0bd921a1e459423",
-  "notes": "인력비서 교체명단 자연어 질문 지원: 월 누적 7일, 업체·현장·교체 상대, 제외조건 조회"
+    "format":  "INRYEOK_UPDATE_V1",
+    "channel":  "stable",
+    "appMode":  "user",
+    "version":  "3.6.8",
+    "buildNumber":  243,
+    "publishedAtUtc":  "2026-10-28T09:10:25.1644567Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_243_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build243-user/inryeok_jangbu_3.6.8_243_user.zip",
+    "packageSize":  41072683,
+    "sha256":  "19acec2c2f1dcbb42f0c0e71b7ae80e436ad133506ab2319fb988b217cea093e",
+    "notes":  "인력비서 교체 불가 질문 및 후속 문맥 연결 수정"
 }
