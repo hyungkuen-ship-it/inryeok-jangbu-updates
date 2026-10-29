@@ -1,13 +1,13 @@
 {
-    "format":  "INRYEOK_UPDATE_V1",
-    "channel":  "stable",
-    "appMode":  "user",
-    "version":  "3.6.8",
-    "buildNumber":  243,
-    "publishedAtUtc":  "2026-10-28T09:10:25.1644567Z",
-    "packageFile":  "inryeok_jangbu_3.6.8_243_user.zip",
-    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build243-user/inryeok_jangbu_3.6.8_243_user.zip",
-    "packageSize":  41072683,
-    "sha256":  "19acec2c2f1dcbb42f0c0e71b7ae80e436ad133506ab2319fb988b217cea093e",
-    "notes":  "인력비서 교체 불가 질문 및 후속 문맥 연결 수정"
+  "format": "INRYEOK_UPDATE_V1",
+  "channel": "stable",
+  "appMode": "user",
+  "version": "3.6.8",
+  "buildNumber": 244,
+  "publishedAtUtc": "2026-10-29T09:17:07.9491966Z",
+  "packageFile": "inryeok_jangbu_3.6.8_244_user.zip",
+  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build244-user/inryeok_jangbu_3.6.8_244_user.zip",
+  "packageSize": 41601827,
+  "sha256": "d124161886d3c4e74180540226604dcab8b685604fb9ba2f0f39b7d78d6050ee",
+  "notes": "메일 발송현장 추가 및 체크 자료 일괄설정"
 }
