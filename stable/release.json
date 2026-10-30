@@ -1,13 +1,13 @@
 {
-  "format": "INRYEOK_UPDATE_V1",
-  "channel": "stable",
-  "appMode": "user",
-  "version": "3.6.8",
-  "buildNumber": 246,
-  "publishedAtUtc": "2026-10-30T05:34:45.8830561Z",
-  "packageFile": "inryeok_jangbu_3.6.8_246_user.zip",
-  "packageUrl": "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build246-user/inryeok_jangbu_3.6.8_246_user.zip",
-  "packageSize": 41602617,
-  "sha256": "2880bbf35a97537a1afddff2db46ccbf735a393634af0e4b5f1f4f5d075fc33f",
-  "notes": "Windows 네이티브 충돌 방지 및 메일 행별 설정 저장 부하 완화"
+    "format":  "INRYEOK_UPDATE_V1",
+    "channel":  "stable",
+    "appMode":  "user",
+    "version":  "3.6.8",
+    "buildNumber":  247,
+    "publishedAtUtc":  "2026-10-30T07:03:41.9989385Z",
+    "packageFile":  "inryeok_jangbu_3.6.8_247_user.zip",
+    "packageUrl":  "https://github.com/hyungkuen-ship-it/inryeok-jangbu-updates/releases/download/v3.6.8-build247-user/inryeok_jangbu_3.6.8_247_user.zip",
+    "packageSize":  41082146,
+    "sha256":  "6ba9956c14195b8d5fba10340e24a1111e520bcc313d4dc9c118b3eececc852e",
+    "notes":  "교체명단 7회 제한: 일반 업체 전체 현장 합산, 대덕·지명 현장별 계산"
 }
